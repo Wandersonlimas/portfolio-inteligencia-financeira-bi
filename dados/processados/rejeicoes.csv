@@ -1,0 +1,4 @@
+linha_origem,motivo,registro
+92,chave mensal duplicada,"{'mes': '1', 'canal': 'Marketplace A', 'linha': 'Essencial', 'pedidos': '201', 'receita_bruta_centavos': '4071226', 'deducoes_centavos': '337067', 'cmv_centavos': '1605560', 'taxas_centavos': '439692', 'frete_centavos': '233344'}"
+93,pedido/receita inválido,"{'mes': '1', 'canal': 'Marketplace A', 'linha': 'Premium', 'pedidos': '240', 'receita_bruta_centavos': '-100', 'deducoes_centavos': '413050', 'cmv_centavos': '1736382', 'taxas_centavos': '517338', 'frete_centavos': '284998'}"
+94,mês fora do período,"{'mes': '13', 'canal': 'Marketplace A', 'linha': 'Acessórios', 'pedidos': '120', 'receita_bruta_centavos': '2456996', 'deducoes_centavos': '222017', 'cmv_centavos': '1191485', 'taxas_centavos': '265355', 'frete_centavos': '153409'}"
