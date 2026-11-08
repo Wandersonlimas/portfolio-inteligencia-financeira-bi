@@ -1,14 +1,15 @@
 # Plano de publicação | Case 03
 
-**Estado atual: conteúdo preparado localmente, não publicado.** Não anunciar como link público antes de testar o GitHub Pages.
+**Estado atual: publicado em 08/11/2026.** Repositório público com 33 arquivos e dashboard no GitHub Pages, cujo funcionamento foi confirmado por captura de tela.
 
-## GitHub: repositório independente
+## GitHub: publicação concluída
 
-1. Crie um repositório **público e vazio**, separado dos Cases 01 e 02. Nome sugerido: `portfolio-inteligencia-financeira-bi`.
-2. Faça upload do **conteúdo interno** do diretório `Case03_Minimalista_Terracota`, sem aninhar a pasta inteira. O `index.html` precisa estar na raiz.
-3. Configure `Settings > Pages > Deploy from a branch > main > / (root) > Save`.
-4. Aguarde o endereço aparecer no painel Pages, abra-o e teste filtros, seleção de período, cenários e exportação.
-5. Revise o PDF, a miniatura e a documentação antes da divulgação. Não envie `.venv` ou segredos.
+- **Dashboard:** https://wandersonlimas.github.io/portfolio-inteligencia-financeira-bi/
+- **Repositório:** https://github.com/Wandersonlimas/portfolio-inteligencia-financeira-bi
+- **Branch:** `main` · **Diretório de publicação:** `/ (root)`
+- **Arquivos de código e suporte:** 33 arquivos, incluindo pipeline em Python, dados, testes, interface, PDF e miniatura.
+
+A versão pública é um exercício técnico com dados fictícios e não demonstra desempenho financeiro de empresas reais.
 
 ## LinkedIn: Em destaque
 
@@ -17,7 +18,7 @@ Adicione **dois itens novos**, sem substituir os materiais dos Cases 01 e 02.
 ### Item 1: dashboard interativo
 
 - Tipo: link.
-- URL: usar a que for confirmada pelo GitHub Pages após a publicação; **não presumir URL antes disso**.
+- URL: https://wandersonlimas.github.io/portfolio-inteligencia-financeira-bi/
 - Título: `Inteligência de Negócios e Gestão Financeira | Python e BI`.
 - Miniatura: `entregaveis/Miniatura_LinkedIn_Case03.png`.
 - Descrição curta:
@@ -43,7 +44,7 @@ A solução usa Python para geração e tratamento dos dados, validação de reg
 
 Toda a base é **100% sintética**. Não representa resultados obtidos por uma empresa ou cliente.
 
-[Inserir aqui link validado do dashboard]
-[Inserir aqui link do repositório]
+🔗 Dashboard: https://wandersonlimas.github.io/portfolio-inteligencia-financeira-bi/
+💻 Código e documentação: https://github.com/Wandersonlimas/portfolio-inteligencia-financeira-bi
 
 #Python #BusinessIntelligence #GestaoFinanceira #AnaliseDeDados #ETL
