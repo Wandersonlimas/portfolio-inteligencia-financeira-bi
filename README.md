@@ -3,11 +3,11 @@
 **Portfólio técnico de Wanderson Limas**  
 **Python · ETL · Modelagem financeira · DRE gerencial · Orçamento vs realizado · Forecast · Business Intelligence · HTML/CSS/JavaScript**
 
-> **Repositório público do Case 03.** A interface está pronta para GitHub Pages; a disponibilidade do endereço depende da configuração de publicação.
+> **Case 03 publicado no GitHub Pages.** Estudo técnico demonstrativo com dados 100% sintéticos. A página pública apresenta o dashboard interativo, enquanto o repositório reúne código-fonte, documentação, testes e materiais de apoio.
 
 ![Miniatura do Case 03](entregaveis/Miniatura_LinkedIn_Case03.png)
 
-[**Abrir dashboard local**](index.html) · [**Ver prévia da interface**](entregaveis/Preview_Case03.png) · [**Ler relatório executivo**](entregaveis/Relatorio_Executivo_Case03_Gestao_Financeira.pdf)
+[**▶ Abrir dashboard interativo**](https://wandersonlimas.github.io/portfolio-inteligencia-financeira-bi/) · [**Abrir dashboard local**](index.html) · [**Ver prévia da interface**](entregaveis/Preview_Case03.png) · [**Ler relatório executivo**](entregaveis/Relatorio_Executivo_Case03_Gestao_Financeira.pdf)
 
 ### Versão V3: interface minimalista com identidade financeira própria
 
