@@ -1,5 +1,5 @@
 Auditoria técnica automatizada.
-Commit de origem: a1c556017c024e5ee306ef1fb973f30b6d66edf8
+Commit de origem: bd665b7fd60527d7d1b3c72c22b6a34a417361a8
 Python: success
 Chromium: success
 
@@ -18,7 +18,7 @@ test_fixed_allocation_exact (test_pipeline.Case03Tests.test_fixed_allocation_exa
 test_forecast_not_mixed_with_realized (test_pipeline.Case03Tests.test_forecast_not_mixed_with_realized) ... ok
 
 ----------------------------------------------------------------------
-Ran 12 tests in 0.156s
+Ran 12 tests in 0.275s
 
 OK
 --- Logs do navegador ---
